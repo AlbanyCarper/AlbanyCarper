@@ -3,7 +3,7 @@
 ## About me
 I am a Software Design Student at the TH Aschaffenburg with background in UX/UI Design. My work focuses on bridging the gap between user-centered design and technical feasibility to build functional, scalable, and engaging digital products.
 
-## 🎨Design and Development Stack
+## Design and Development Stack
 
 **Design & UX**
 <p align="left">
@@ -26,7 +26,7 @@ I am a Software Design Student at the TH Aschaffenburg with background in UX/UI 
   </a>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together%20Light%20Skin%20Tone.png" alt="Palms Up Together Light Skin Tone" width="25" height="25" /> [Nom Nom: Educational Game](https://github.com)
 
 - **Tech Stack:** Godot, GDScript.
