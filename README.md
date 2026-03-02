@@ -1,6 +1,5 @@
 # Hello, I'm Albany! 👋
-<!--
-**AlbanyCarper/AlbanyCarper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## About me
 I am a Software Design Student at the TH Aschaffenburg with background in UX/UI Design. My work focuses on bridging the gap between user-centered design and technical feasibility to build functional, scalable, and engaging digital products.
 
