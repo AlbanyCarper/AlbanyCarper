@@ -27,7 +27,7 @@ I am a Software Design Student at the TH Aschaffenburg with background in UX/UI 
 </p>
 
 ## Featured Projects
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together%20Light%20Skin%20Tone.png" alt="Palms Up Together Light Skin Tone" width="25" height="25" /> [Nom Nom: Educational Math Game](https://github.com/AlbanyCarper/NomNom-Educational-Math-Game)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palms%20Up%20Together%20Light%20Skin%20Tone.png" alt="Palms Up Together Light Skin Tone" width="25" height="25" /> [NomNom: Educational Math Game](https://github.com/AlbanyCarper/NomNom-Educational-Math-Game)
 
 - **Tech Stack:** Godot, GDScript.
 - **Role:** Served as both UX/UI Designer and Developer, designing a kid-centric interface and implemented interactive mechanics and animations using GDScript.
