@@ -32,4 +32,12 @@ I am a Software Design Student at the TH Aschaffenburg with background in UX/UI 
 - **Tech Stack:** Godot, GDScript.
 - **Role:** Served as both UX/UI Designer and Developer, designing a kid-centric interface and implemented interactive mechanics and animations using GDScript.
 
-
+## Let's Get in Touch
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:albanycape@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
