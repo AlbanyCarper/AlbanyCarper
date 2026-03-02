@@ -3,7 +3,7 @@
 ## About me
 I am a Software Design Student at the TH Aschaffenburg with background in UX/UI Design. My work focuses on bridging the gap between user-centered design and technical feasibility to build functional, scalable, and engaging digital products.
 
-##🎨Design and Development Stack
+## 🎨Design and Development Stack
 **Design & UX**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
