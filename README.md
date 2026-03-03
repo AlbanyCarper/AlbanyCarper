@@ -1,4 +1,4 @@
-# Hello, I'm Albany! 👋
+# Hello, I'm Albany! 
 
 ## About me
 I am a Software Design Student at the TH Aschaffenburg with background in UX/UI Design. My work focuses on bridging the gap between user-centered design and technical feasibility to build functional, scalable, and engaging digital products.
@@ -34,7 +34,7 @@ I am a Software Design Student at the TH Aschaffenburg with background in UX/UI 
 
 ## Let's Get in Touch
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/albany-carrero">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:albanycape@gmail.com">
