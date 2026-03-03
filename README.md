@@ -34,7 +34,7 @@ I am a Software Design Student at the TH Aschaffenburg with background in UX/UI 
 
 ## Let's Get in Touch
 <p align="left">
-  <a href="www.linkedin.com/in/albany-carrero">
+  <a href="https://www.linkedin.com/in/albany-carrero/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:albanycape@gmail.com">
